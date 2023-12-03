@@ -1,1 +1,1 @@
-# Responsive-Design-Assignment-2.1
+# kidz-world-html-boilerplate
